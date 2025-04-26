@@ -13,7 +13,6 @@ public class Main {
         window.setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
         window.setLocationRelativeTo(null);
         window.setResizable(false);
-        Menu menu = new Menu(WINDOW_WIDTH/(4*3),0,);
 
     }
 }
